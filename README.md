@@ -1,9 +1,11 @@
 # RecyclerViewApp01
 
-In this project you can see MVC design pattern.
+In this project you can see **MVC design pattern**.
 
-We implement Adapter class, Model class and recycler view.
+We implement **Adapter class**, **Model class** and **RecyclerView**.
+
 Model attributes: title, description and genre.
+
 Tha data are static (hard coded inside the app using ArrayList).
 
 
