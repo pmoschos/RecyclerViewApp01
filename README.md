@@ -4,7 +4,10 @@ In this project you can see **MVC design pattern**.
 
 We implement **Adapter class**, **Model class** and **RecyclerView**.
 
-Model attributes: title, description and genre.
+Model class (Movie) attributes: 
+- title
+- description
+- genre
 
 Tha data are static (hard coded inside the app using ArrayList).
 
