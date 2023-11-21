@@ -1,6 +1,6 @@
-# Movie Catalog App Overview
+# 🎥 Movie Catalog App Overview 
 
-## MainActivity :clapper:
+## MainActivity :memo:
 `MainActivity` serves as the entry point of the app, showcasing a catalog of movies.
 
 ### Key Components
@@ -16,7 +16,7 @@
 ### Movie Data Initialization
 - Method `insertData()` populates the `ArrayList` with sample movie data.
 - Movies include titles like "Inception", "The Shawshank Redemption", "Pulp Fiction", etc.
-- Each `Movie` object contains a title, description, and genre.
+- Each `Movie` object contains a **title**, **description**, and **genre**.
 
 ## MyAdapter :film_strip:
 Custom adapter for the RecyclerView in `MainActivity`.
@@ -54,7 +54,12 @@ Displays details of a selected movie from `MainActivity`.
 ## Conclusion :checkered_flag:
 This app provides a simple yet effective demonstration of using RecyclerViews in Android to display a list of items and navigate to detailed views upon selection.
 
----
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
+<p align="center">
+  Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
+</p>
+
 ## Our App 📷
 
 ![image](https://github.com/pmoschos/RecyclerViewApp01/assets/133533759/0748d848-c9f9-45a5-bf7e-038520a11130)
